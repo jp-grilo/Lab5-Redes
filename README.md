@@ -1,5 +1,9 @@
 # Lab5-Redes
 
+Alunos:
+- João Paulo 201909754
+- Felipe Antônio 201904404
+
 ## Servidor Web Simples em Python
 
 Nesta tarefa, você desenvolverá um servidor Web simples em Python, capaz de
