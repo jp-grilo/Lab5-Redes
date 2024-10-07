@@ -1,6 +1,6 @@
 # Lab5-Redes
 
-# Servidor Web Simples em Python
+## Servidor Web Simples em Python
 
 Nesta tarefa, você desenvolverá um servidor Web simples em Python, capaz de
 processar apenas uma requisição. Seu servidor Web (i) criará um socket de conexão
